@@ -21,6 +21,7 @@ Sistema de tela inicial de um aplicativo bancário, por meio de uma API RESTful 
 - Railway
   - Plataforma que permite provicionamento de banco de dados
   - Possibilita serviço de integração com o repositório do projeto e realizar deploy das alterações
+  - Acesso de domínio público: https://deployer-api.up.railway.app/swagger-ui/index.html
 
 
 ## Diagrama de Classes
